@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-25T23:11:46 GMT-07:00" name="Default suite" finished-at="2024-05-25T23:12:31 GMT-07:00" duration-ms="45436">
+    <groups>
+    </groups>
+    <test started-at="2024-05-25T23:11:46 GMT-07:00" name="Default test" finished-at="2024-05-25T23:12:31 GMT-07:00" duration-ms="45436">
+      <class name="maventest.ultimateqa">
+        <test-method signature="AppLaunch()[pri:0, instance:maventest.ultimateqa@242b836]" started-at="2024-05-25T23:11:46 GMT-07:00" name="AppLaunch" finished-at="2024-05-25T23:11:52 GMT-07:00" duration-ms="6480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppLaunch -->
+        <test-method signature="Services()[pri:1, instance:maventest.ultimateqa@242b836]" started-at="2024-05-25T23:11:52 GMT-07:00" name="Services" finished-at="2024-05-25T23:12:00 GMT-07:00" duration-ms="7902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Services -->
+        <test-method signature="About()[pri:2, instance:maventest.ultimateqa@242b836]" started-at="2024-05-25T23:12:00 GMT-07:00" name="About" finished-at="2024-05-25T23:12:08 GMT-07:00" duration-ms="7778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- About -->
+        <test-method signature="Blog()[pri:3, instance:maventest.ultimateqa@242b836]" started-at="2024-05-25T23:12:08 GMT-07:00" name="Blog" finished-at="2024-05-25T23:12:16 GMT-07:00" duration-ms="7747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Blog -->
+        <test-method signature="Education()[pri:4, instance:maventest.ultimateqa@242b836]" started-at="2024-05-25T23:12:16 GMT-07:00" name="Education" finished-at="2024-05-25T23:12:24 GMT-07:00" duration-ms="7693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Education -->
+        <test-method signature="IwantafreeDISCOVERYSESSION()[pri:4, instance:maventest.ultimateqa@242b836]" started-at="2024-05-25T23:12:24 GMT-07:00" name="IwantafreeDISCOVERYSESSION" finished-at="2024-05-25T23:12:31 GMT-07:00" duration-ms="7707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IwantafreeDISCOVERYSESSION -->
+      </class> <!-- maventest.ultimateqa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
